@@ -2,7 +2,7 @@
 
 ChronoPwn is a powerful cyber attack-analysis platform developed to simulate hacking of digital and physical systems. It relies on fractal AI, time-based exploitation, and dynamic reverse engineering, making it the closest tool to an AI capable of performing **fully automated attack operations**.
 
-## 🌟 Key Features
+##  Key Features
 
 | Module | Description |
 |--------|-------------|
@@ -23,7 +23,7 @@ ChronoPwn is a powerful cyber attack-analysis platform developed to simulate hac
 - `TensorFlow/scikit-learn` - Behavior analysis and machine learning models
 - `Nmap/Scapy/Custom Protocol Parser` - Network and protocol analysis
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -37,7 +37,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-## 🏃 Usage
+##  Usage
 
 1. Start the backend:
 ```bash
@@ -64,7 +64,7 @@ cd quantum
 python simulator.py
 ```
 
-## 📄 License
+##  License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠ Disclaimer
