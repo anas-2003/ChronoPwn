@@ -64,6 +64,10 @@ cd quantum
 python simulator.py
 ```
 
+## Dev
+`Anas Erami`
+
+
 ##  License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
